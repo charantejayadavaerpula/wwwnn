@@ -1,0 +1,6 @@
+{
+  "name": "Audio Record & Live Listen",
+  "description": "An advanced audio studio featuring dual modes: high-quality live voice recorder and live sound amplifier/hear-through hearing aid using earphones as remote microphones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
